@@ -1,5 +1,5 @@
 # ModuleOverride
-ModuleOverride is a process injection technique, discussed (this blog post)[], which reuses - or override - the the memory space of a target DLL to store a shellcode.
+ModuleOverride is a process injection technique, discussed [this blog post](), which reuses - or override - the the memory space of a target DLL to store a shellcode.
 
 # Caveats
 This repository only contains a PoC which is only intended to be used for research purposes. The current source only focuses on the technique it self, it's not meant to be stealth or undetected.
